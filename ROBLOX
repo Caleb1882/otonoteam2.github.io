@@ -2,10 +2,8 @@
     {
     "@context" : "http://schema.org",
     "@type" : "Organization",
-    "name" : "Roblox",
-    "url" : "https://www.roblox.com/",
-    "logo": "https://images.rbxcdn.com/cece570e37aa8f95a450ab0484a18d91",
-    "sameAs" : [
+    "name" : "HI",
+    "url" : "https://www.roblox.com/",    "sameAs" : [
     "https://www.facebook.com/roblox/",
     "https://twitter.com/roblox",
     "https://www.linkedin.com/company/147977",
